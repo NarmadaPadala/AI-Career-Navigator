@@ -4,7 +4,7 @@ AI Career Navigator is a Streamlit dashboard that helps users explore AI job mar
 
 ## Project Overview
 
-This project was built as a beginner-friendly data dashboard using Python. It loads an AI jobs dataset and turns it into an interactive career exploration tool.
+This project was built as a beginner-friendly data dashboard using Python, Streamlit, Codex, and Wispr Flow. It loads an AI jobs dataset and turns it into an interactive career exploration tool.
 
 Users can filter the data and instantly see updated insights for:
 - Top AI job roles
@@ -37,12 +37,14 @@ Users can filter the data and instantly see updated insights for:
   - Salary distribution
 - Filtered data table at the bottom
 
-## Tech Stack
+## Built With
 
 - Python
 - Streamlit
 - Pandas
 - Plotly Express
+- Codex
+- Wispr Flow
 
 ## Dataset
 
